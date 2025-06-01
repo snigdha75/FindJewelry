@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroud_color">#4B4C2C</color>
+    <color name="element_color">#A28820</color>
+    <color name="purple_700">#5E35B1</color>
+    <color name="teal_700">#00897B</color>
+    <color name="gray_500">#757575</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="icon_background">#A28820</color>
+</resources>

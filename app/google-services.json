@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474215032311",
+    "project_id": "findjewelry-c6c2e",
+    "storage_bucket": "findjewelry-c6c2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474215032311:android:508d97036ef5b896787af2",
+        "android_client_info": {
+          "package_name": "com.example.findjewelry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvStlgZXlXr1bNaKO3SmcAy7Af-PkEPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
